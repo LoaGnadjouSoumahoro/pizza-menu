@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LoaGnadjouSoumahoro/pizza-menu/static/css/main.ec313818.css",
-    "main.js": "/LoaGnadjouSoumahoro/pizza-menu/static/js/main.83b773cf.js",
-    "index.html": "/LoaGnadjouSoumahoro/pizza-menu/index.html",
-    "main.ec313818.css.map": "/LoaGnadjouSoumahoro/pizza-menu/static/css/main.ec313818.css.map",
-    "main.83b773cf.js.map": "/LoaGnadjouSoumahoro/pizza-menu/static/js/main.83b773cf.js.map"
+    "main.css": "/pizza-menu/static/css/main.ec313818.css",
+    "main.js": "/pizza-menu/static/js/main.83b773cf.js",
+    "index.html": "/pizza-menu/index.html",
+    "main.ec313818.css.map": "/pizza-menu/static/css/main.ec313818.css.map",
+    "main.83b773cf.js.map": "/pizza-menu/static/js/main.83b773cf.js.map"
   },
   "entrypoints": [
     "static/css/main.ec313818.css",
