@@ -1,6 +1,6 @@
 # <img src="./public/pizzas/icon-pizza.ico" width="30" height="30"> Fast React Pizza Co.
 
-[Visitez le site en ligne]()
+[Visitez le site en ligne](https://loagnadjousoumahoro.github.io/pizza-menu/)
 
 Date de début du projet : 12/02/2024  
 Date de fin du projet : 15/02/2024
@@ -15,7 +15,7 @@ Ce projet est une page de menu pour le site d'un restaurant de pizzas nommé "Fa
 
 ## Déploiement
 
-Le projet est déployé sur GitHub Pages à l'adresse suivante : [Lien vers le déploiement]()
+Le projet est déployé sur GitHub Pages à l'adresse suivante : [Lien vers le déploiement](https://loagnadjousoumahoro.github.io/pizza-menu/)
 
 ## Instructions de développement
 
